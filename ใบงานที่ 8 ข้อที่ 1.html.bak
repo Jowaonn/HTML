@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus®">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<title> ใบงานที่ 8  ข้อที่ 3</title>
+</head>
+<body>
+<script type="text/javascript">
+b = 100; yy = 11; NN = 3/100;
+compute(b,yy,NN);
+b = 500; yy = 17; NN = 5/100;
+compute(b,yy,NN);
+function compute(balance,y,InterestRate)
+{
+year = 1;
+while(year<=y) //y=ปีที่ฝาก 
+{
+interest=balance*(InterestRate);
+balance=balance+interest;
+document.write("year balance" +year +"balance: " + balance);
+document.write("<BR>");
+year++;
+}
+document.write("______________________________________");
+document.write("<BR>");
+}
+</script>
+</body>
+</html>

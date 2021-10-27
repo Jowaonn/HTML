@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Test Page</title>
+ </head>
+ <body>
+   สถานที่ท่องเที่ยวประเทศญี่ปุ่น
+ <H1> Fuji Mountain <H1>
+ <!-- ข้อความ สถานที่ท่องเที่ยวประเทศญี่ปุ่น ( Fuji Mountain ) แสดงหัวเรื่องขนาด 1 -->
+  <FONT COLOR=Red>Fuji Mountain</font><BR>
+ <!-- เปลี่ยนสีตัวอักษรเป็นสีแดง -->
+ <FONT size="16">Fuji Mountain</font><BR>
+ <!-- เปลี่ยนขนาดตัวอักษร -->
+ <FONT FACE="TH SarabunPSK">Fuji Mountain</FONT><BR>
+ <!-- เปลี่ยนฟอนต์เป็น TH SarabunPSK-->
+ <BODY BGCOLOR="Gray">
+ <!-- เปลี่ยนสีพื้นหลังเป็นสีฟ้า -->
+ <B>Fuji Mountain ตั้งอยู่ที่ประเทศญี่ปุ่น</B></BR>
+ <!-- ข้อความที่เป็นตัวอักษรหนา -->
+ <U>อยู่ที่จังหวัดชิซูโอกะและจังหวัดยามานาชิ</U></BR>
+ <!-- ข้อความที่ขีดเส้นใต้ -->
+ <I>ความสูง 3,776 เมตร (12,388 ฟุต)</I></BR>
+ <!-- ข้อความที่เป็นตัวเอียง -->
+ <P>
+ <!-- ขึ้นย่อหน้าใหม -->
+ <H3>สิ่งสำคัญ Fuji Mountain</H>
+ <ul>
+ <li>เป็นที่ท่องเทียวสำคัญของประเทศญี่ปุ่น</li>
+ <li>เป็นที่ที่คนญี่ปุ่นทุกคนต้องไปให้ได้</li><BR>
+ <!-- ordered list ไม่จัดลำดับความ -->
+ <H3>สิ่งสำคัญที่นักท่องเที่ยวต้องไป Fuji Mountain</H>
+ <ol>
+ <li>นักท่องเที่ยวที่ไม่ได้ไปถือว่าไปไม่ถึงญี่ปุ่น</li>
+ <li>เป็น landmark ของประเทศญี่ปุ่น</li><BR>
+ <!-- ordered list จัดลำดับข้อความ-->
+ <BR>
+ <!-- ขึ้นบรรทัดใหม -->
+ <BODY TEXT=#FFFFFF>
+ <!-- เปลี่ยนสีทั้งหมด -->
+ <P ALIGN="CENTER"> Fuji Mountain</P>
+ <!-- ขยับให้ตัวอักษรมาอยู่ตรงกลาง -->
+ <P ALIGN="CENTER"><img src="MtFuji.jpg" width="1980"
+ height="1080" border="0" alt=""</p>
+ <!—ใส่รูปภาพให้อยู่ตรงกลาง -->
+ <HR SIZE="5" WIDTH="100%"><BR>
+ <!-- สร้างเส้นแนวนอน -->
+ <B></B>
+ </body>
+</html>

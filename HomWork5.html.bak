@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Ex05</title>
+ <!-- css รูปแบบ external -->
+ <link href="Homework5.css" rel="stylesheet">
+ <!-- css รูปแบบ internal -->
+ <style>
+ 	p{font-weight:bold;
+	font-size:14px;
+	color:blue;
+	text-align:center;}
+ </style>
+ </head>
+ <body>
+	<!-- css รูปแบบ in line -->
+	<span style= font-style:italic;font-weight:bold;font-size:40px;color:red;text-align:left;>ข่าว</span>
+
+	<p>"กับดักอันตราย ที่ทำให้เราล้มเหลวได้ง่ายๆ"</p>
+	<div id="intro">1.ชะล่าใจว่าทุกอย่างก็คงเหมือนเดิม</div>
+	<div class="intro">การทำอะไรที่ต่อเนื่องหรือทำกันอยู่เสมอๆ นั้นมักทำให้เราเกิดสิ่งที่เรียกว่า "ความเคยชิน " จนนำไปสู่   "ความเคยตัว" และ "ชะล่าใจ" ในท้ายที่สุด</div>
+	<div id="intro">2.การพยายามทำอะไรอยู่บนวิธีการเดิม</div>
+	<div class="intro">สิ่งที่หลายๆ คนมักจะเป็นคือการเรียนรู้ทักษะอะไรบางอย่าง หรือได้พัฒนาอะไรบางอย่างขึ้นมาจนสำเร็จ จากนั้นก็จะหยุดอยู่กับการกระบวนการนั้น เช่น ถ้าคิดระบบการทำงานอย่างหนึ่งขึ้นมา เราก็จะใช้ระบบนั้นไปเรื่อยๆ โดยไม่ได้ทบทวนหรือกลับไปสำรวจว่าเราต้องเปลี่ยนแปลงอะไรไหม</div>
+ </body>
+</html>
